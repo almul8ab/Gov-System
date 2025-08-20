@@ -1,0 +1,10 @@
+<meta>
+    <info author="hso" name="Gov System" type="script" version="1.0" />
+    <script src="hso_s.lua" type="server" />
+    <script src="hso_c.lua" type="client" cache="false" />
+    <file src="img/meo.JPG" />
+	 <file src="hso.ttf" />
+    <file src="songs/hso.mp3" />
+	 <config src="config.xml" type="server" />
+    <min_mta_version client="1.3.0-9.04570" server="1.3.0-9.04570"></min_mta_version>
+</meta>

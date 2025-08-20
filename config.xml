@@ -1,0 +1,9 @@
+<config>
+    <images>
+        <image name="صورة اساسية" file="meo.JPG" />
+    </images>
+
+    <songs>
+        <song name="اغنية اساسية" file="hso.mp3" />
+    </songs>
+</config>
